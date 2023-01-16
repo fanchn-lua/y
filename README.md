@@ -3,29 +3,35 @@
  
 ————>YHP-元化工作室服务<————
 
- ◇<strong>服务器</strong>（linux）
+ ◇<strong>织音云</strong>
 
 <center>
                             <div id="header"></div>
                             <div id="main">
                                 <div class="demo">
                                     <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">香港服务器 · 1r1月（50M空间和数据库) · 60r1年（666M空间和数据库，免备案）</pre> <center>
+                                        <pre class="aplayer-lrc-content">虚拟主机 ◇ <a href="https://www.zhiyinidc.com/product/host.html">前往</a></pre> <center>
                             <div id="header"></div>
                             <div id="main">
                                 <div class="demo">
                                     <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">普通服务器 · 15r1月（空间未知，技术支持)</pre> <center>
+                                        <pre class="aplayer-lrc-content">云服务器 ◇ <a href="https://www.zhiyinidc.com/product/ecs.html">前往</a></pre> <center>
                             <div id="header"></div>
                             <div id="main">
                                 <div class="demo">
                                     <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">商城用机 · 6r1月（500M空间和数据库) · 加强款 · 10r1月（空间1000M，数据库500M)</pre> <center>
+                                        <pre class="aplayer-lrc-content">CDN ◇ <a href="https://www.zhiyinidc.com/product/cdn.html">前往</a></pre> <center>
                             <div id="header"></div>
                             <div id="main">
                                 <div class="demo">
                                     <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">香港博客专用机（可以定义域名) · 7r1月（500M空间，200M数据库，A型机) · B型机 · 10r1月（1000M空间，500M数据库)</pre>
+                                        <pre class="aplayer-lrc-content">云电脑 ◇ <a href="https://www.zhiyinidc.com/product/ydn.html">前往</a></pre> <center>
+                            <div id="header"></div>
+                            <div id="main">
+                                <div class="demo">
+                                    <div id="player3" class="aplayer">
+                                        <pre class="aplayer-lrc-content">物理机 ◇ <a href="https://www.zhiyinidc.com/product/physicsserver.html">前往</a></pre> 
+
 
  ◇<strong>支付</strong>
 <center>
