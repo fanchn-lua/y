@@ -53,7 +53,7 @@
 
 
 
- ◇<strong>支付</strong>
+ ◇<strong>站长扶持计划</strong>
 <center>
                             <div id="header"></div>
                             <div id="main">
