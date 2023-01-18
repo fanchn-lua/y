@@ -3,35 +3,19 @@
  
 ————>YHP-元化工作室服务<————
 
- ◇<strong>织音云(代理)</strong>
+ ◇<strong>云服务</strong>
 
 <center>
                             <div id="header"></div>
                             <div id="main">
                                 <div class="demo">
                                     <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">虚拟主机 ◇ <a href="https://www.zhiyinidc.com/product/host.html">前往</a></pre> <center>
+                                        <pre class="aplayer-lrc-content">织音云(代理) ◇ <a href="https://www.zhiyinidc.com/aff/ZKUMKDUC">前往</a></pre> <center>
                             <div id="header"></div>
                             <div id="main">
                                 <div class="demo">
                                     <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">云服务器 ◇ <a href="https://www.zhiyinidc.com/product/ecs.html">前往</a></pre> <center>
-                            <div id="header"></div>
-                            <div id="main">
-                                <div class="demo">
-                                    <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">CDN ◇ <a href="https://www.zhiyinidc.com/product/cdn.html">前往</a></pre> <center>
-                            <div id="header"></div>
-                            <div id="main">
-                                <div class="demo">
-                                    <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">云电脑 ◇ <a href="https://www.zhiyinidc.com/product/ydn.html">前往</a></pre> <center>
-                            <div id="header"></div>
-                            <div id="main">
-                                <div class="demo">
-                                    <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">物理机 ◇ <a href="https://www.zhiyinidc.com/product/physicsserver.html">前往</a></pre> 
-
+                                        <pre class="aplayer-lrc-content">尘元云 ◇ <a href="https://Metalization.github.io/cnyany/">前往</a></pre>
  ◇<strong>YHP销售店</strong>
 <center>
                             <div id="header"></div>
