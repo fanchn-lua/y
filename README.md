@@ -20,7 +20,7 @@
                             <div id="main">
                                 <div class="demo">
                                     <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">007IDC云计算 ◇ <a href="http://xxs.lol/aff/RFIOSVBU">前往</a></pre>
+                                        <pre class="aplayer-lrc-content">007IDC云计算(代理) ◇ <a href="http://xxs.lol/aff/RFIOSVBU">前往</a></pre>
  ◇<strong>YHP销售店</strong>
 <center>
                             <div id="header"></div>
