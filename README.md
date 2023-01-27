@@ -15,7 +15,12 @@
                             <div id="main">
                                 <div class="demo">
                                     <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">尘元云 ◇ <a href="https://Metalization.github.io/cnyany/">前往</a></pre>
+                                        <pre class="aplayer-lrc-content">尘元云 ◇ <a href="https://Metalization.github.io/cnyany/">前往</a></pre> <center>
+                            <div id="header"></div>
+                            <div id="main">
+                                <div class="demo">
+                                    <div id="player3" class="aplayer">
+                                        <pre class="aplayer-lrc-content">007IDC云计算 ◇ <a href="http://xxs.lol/aff/RFIOSVBU">前往</a></pre>
  ◇<strong>YHP销售店</strong>
 <center>
                             <div id="header"></div>
