@@ -37,7 +37,12 @@
                             <div id="main">
                                 <div class="demo">
                                     <div id="player3" class="aplayer">
-                                        <pre class="aplayer-lrc-content">软件加固脱壳器 ◇ <a href="https://afdian.net/a/yuanhua">前往</a></pre>
+                                        <pre class="aplayer-lrc-content">软件加固脱壳器 ◇ <a href="https://afdian.net/a/yuanhua">前往</a></pre> <center>
+                            <div id="header"></div>
+                            <div id="main">
+                                <div class="demo">
+                                    <div id="player3" class="aplayer">
+                                        <pre class="aplayer-lrc-content">网页云端 ◇ <a href="https://afdian.net/a/yuanhua">前往</a></pre>
 
 
 
