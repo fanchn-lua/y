@@ -1,5 +1,5 @@
 # YHP
-·<a href="https://b23.tv/3mfo3Ee">B站</a>·<a href="https://Metalization.github.io/c/">友链</a>·<a href="https:Metalization.github.io/d/">设备测试</a>·
+·<a href="https://b23.tv/3mfo3Ee">B站</a>·<a href="https://Metalization.github.io/c/">友链</a>·<a href="https://Metalization.github.io/d/">设备测试</a>·
  
 ————>YHP-元化工作室服务<————
 
